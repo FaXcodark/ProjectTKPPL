@@ -11,3 +11,7 @@ Refsensi : Wajib 3 Atau Lebih refrensi ex : 1. """" 2."""" 3.""""
 Bila ada Kekurangan dapat ditambahkan ..
 
 Best Regards : "FaXcodark "Fajar AKbar Asyari""
+
+Nama : Wiwi Lestari Banjarnahor 
+Usulan Judul :"Mobil otonom atau mobil tanpa pengemudi"
+Refrensi : Sedang dicari
