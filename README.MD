@@ -1,14 +1,38 @@
-Selamat Datang di PROJECT TKPPL Semester 4.
+# Wireless Charging
+> Pada ProjectTKPPL ini Kami akan membahas tentang Wireless Charging.
+Penemuan Teknologi ini sudah diperkenalkan pertama kali pada tahun 2009, Dan digunakan oleh Smartphone Palm Pre,
 
-Disini saya sebagai SCRUM MASTER Akan melampirkan beberapa peraturan yang wajib diikuti untuk setiap anggota dari kelompok .
+## Cara untuk Melihat slide di Komputer Lokal
+> Jika OS anda Menggunakan Linux, Maka Langsung saja diterminal , lebih aman pakai sudo su, Tapi jika OS Windows perlu bolak balik ganti Shell :V;
+Step : 
+1. Instal paket [Node.js](http://nodejs.org) (Pilih sesuai OS dan Bit OS yang digunakan)
+2. Buka jendela command prompt atau CMD, masuk ke folder repository, dan ke folder PersentasiWithBespoke
+3. Ketik ini `$ npm install -g bower`
+4. Dan ketik ini `$ npm install -g grunt-cli`
 
-1. Wajib PUSH tiap Hari.
-2. Selalu PULL Setiap memiliki waktu senggang.
-3. Pergantian SCRUM Master Akan diadakan 2 Hari Sekali(Jika ada yang ingin ditambahkan Silahkan Edit Bagian file ReadMeFIRST.txt ini)
-4. Selalu Cantumkan apa saja yang dicommit dengan Message pada commit : 
-Example : 
-      -m "Saya Telah Menambahkan Fitur ...."
-5. Tolong Kerja Samanya Teman-Teman.
-6. Dan Terakhir kita Wajib Mengisi Absensi yang ada, Nnti akan saya buat Absensinya dengan bentuk .xlxs
+> Kemudian untuk menjalankannya lakukan langkah ini di git bash & didalam folder repo biar aman (klik kanan, pilih git bash):
 
-Best Regards : Fajar Akbar Asyari.
+```bash
+$ npm install && bower install
+$ grunt server
+```
+
+> Jika ketika grunt server ternyata terjadi erro, maka lakukan perintah:
+
+```bash
+$ grunt server --force
+```
+> kemudian ketikkan pada browser chrome anda secara manual di: 
+> localhost:8000
+
+> [Bespoke.js](http://markdalgleish.com/projects/bespoke.js) presentation, built with [generator-bespoke](https://github.com/markdalgleish/generator-bespoke)
+
+#Informasi Kelompok
+
+> Tugas Teknoogi Kolaborasi Pengembangan Perangkat Lunak
+> Anggota Kelompok:
+
+> 1. Fajar Akbar Asyari           : 151113578
+> 2. Elton Elfanta Perangin-angin : 151113101 
+> 3. Margareth Cindy 	  	  : 151113225
+> 4. Wiwi Lestari Banjarnahor	  : 151113063
