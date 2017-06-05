@@ -36,3 +36,5 @@ $ grunt server --force
 > 2. Elton Elfanta Perangin-angin : 151113101 
 > 3. Margareth Cindy 	  	  : 151113225
 > 4. Wiwi Lestari Banjarnahor	  : 151113063
+
+> Find Us @ [Tello](https://trello.com/b/blmS5pko/teknologi-kolaborasi-pengembangan-perangkat-lunak)
