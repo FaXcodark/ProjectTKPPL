@@ -2,36 +2,32 @@ INFORMASI UMUM
 ======================
 
 # Anggota Kelompok :
-> FaXcodark [Fajar Akbar Asyari] (https://github.com/FaXcodark)
-	Nim : 151113578
-> Elton ELfanta
-	Nim : 151113101 
-> Wiwi Lestari
-	Nim : 151113063
-> Margareth Cindy
-	Nim : 151113063
+1. FaXcodark [(Fajar Akbar Asyari)](https://github.com/FaXcodark) 	Nim : 151113578
+2. Elton ELfanta 							Nim : 151113101 
+3. Wiwi Lestari 							Nim : 151113063
+4. Margareth Cindy 							Nim : 151113063
 
 # Our Trello 
-> Find Us @ [Tello](https://trello.com/b/blmS5pko/teknologi-kolaborasi-pengembangan-perangkat-lunak
+> Find Us @ [Tello](https://trello.com/b/blmS5pko/teknologi-kolaborasi-pengembangan-perangkat-lunak)
 ************************************************************************************************************************************************
 
-SCRUM
+# SCRUM
 =======
-Sprint :22/5/2017 - 6/6/2017
-Scrum Master : Fajar akbar Asyari
-Tim Developer : Elton Elfanta,Wiwi Lestari,Margareth Cindy
-Product Owner : Fajar Akbar Asyari, Elton Elfanta, WIwi Lestari, Margareth Cindy
-Sprint Planning : 
-	Daftar Github dan Trello
-	Setting Github dan Node.js Pada PC
-	CLone and Join To Repo
-	Design Bespoke
-Product BackLog : 
-	Daftar Akun Github dan Trello di [Github](https://github.com)
-	Setting Github dan Node.js Pada PC !
-	Setelah selesai melakukan pendaftaran akun Github, selanjutnya masuk/join ke repositori -> Link https://github.com/FaXcodark/ProjectTKPPL . Pada repositori tersebetulah kita dapat melakukan Commit, Push dan Pull.
-	Selanjutnya, usahakan Untuk melakukan Push setiap hari pada Github, karna pada pengerjaan tugas ini nilai dari anggota akan dilihat dari frequensi dan kualitas push.
-	Design Bespoke
+# Sprint :22/5/2017 - 6/6/2017
+	Scrum Master : Fajar akbar Asyari
+	Tim Developer : Elton Elfanta,Wiwi Lestari,Margareth Cindy
+	Product Owner : Fajar Akbar Asyari, Elton Elfanta, WIwi Lestari, Margareth Cindy
+	Sprint Planning : 
+		Daftar Github dan Trello
+		Setting Github dan Node.js Pada PC
+		CLone and Join To Repo
+		Design Bespoke
+	Product BackLog : 
+		Daftar Akun Github dan Trello di [Github](https://github.com)
+		Setting Github dan Node.js Pada PC !
+		Setelah selesai melakukan pendaftaran akun Github, selanjutnya masuk/join ke repositori -> Link 				https://github.com/FaXcodark/ProjectTKPPL . Pada repositori tersebetulah kita dapat melakukan Commit, Push dan 			Pull.
+		Selanjutnya, usahakan Untuk melakukan Push setiap hari pada Github, karna pada pengerjaan tugas ini nilai dari 			anggota akan dilihat dari frequensi dan kualitas push.
+		Design Bespoke
 
 Log Book
 ==========
