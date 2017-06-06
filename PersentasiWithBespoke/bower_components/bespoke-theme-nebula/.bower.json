@@ -1,0 +1,22 @@
+{
+  "name": "bespoke-theme-nebula",
+  "version": "1.0.1",
+  "main": "./dist/bespoke-theme-nebula.js",
+  "ignore": [
+    "**/.*"
+  ],
+  "dependencies": {
+    "bespoke.js": ">=1.0.0"
+  },
+  "homepage": "https://github.com/markdalgleish/bespoke-theme-nebula",
+  "_release": "1.0.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.1",
+    "commit": "269f444cb9e9ac4d511b45466b6f99a60de2dd01"
+  },
+  "_source": "https://github.com/markdalgleish/bespoke-theme-nebula.git",
+  "_target": "^1.0.1",
+  "_originalSource": "bespoke-theme-nebula",
+  "_direct": true
+}
