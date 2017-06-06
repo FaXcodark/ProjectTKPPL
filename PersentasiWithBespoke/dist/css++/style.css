@@ -229,13 +229,13 @@ section {
 	transform: none;
 	background: #c0c0c0;
 	border-radius: 30px;
-	width: 700px;
+	width: 1000px;
 	height: 600px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
-	margin-left: -380px;
-	margin-top: -290px;
+	margin-left: -480px;
+	margin-top: -300px;
 	opacity: 0;
 }
 .s1{
