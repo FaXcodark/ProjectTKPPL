@@ -38,4 +38,3 @@ $ grunt server --force
 > 4. Wiwi Lestari Banjarnahor	  : 151113063
 
 > Find Us @ [Tello](https://trello.com/b/blmS5pko/teknologi-kolaborasi-pengembangan-perangkat-lunak
-OKeoke
