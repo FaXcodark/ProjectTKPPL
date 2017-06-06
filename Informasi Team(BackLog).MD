@@ -2,14 +2,10 @@ INFORMASI UMUM
 ======================
 
 # Anggota Kelompok :
-FaXcodark [Fajar Akbar Asyari](https://github.com/FaXcodark)
-	Nim : 151113578
-Elton ELfanta
-	Nim : 151113101 
-Wiwi Lestari
-	Nim : 151113063
-Margareth Cindy
-	Nim : 151113063
+1. FaXcodark [(Fajar Akbar Asyari)](https://github.com/FaXcodark) 	Nim : 151113578
+2. Elton ELfanta 							Nim : 151113101 
+3. Wiwi Lestari 							Nim : 151113063
+4. Margareth Cindy 							Nim : 151113063
 
 # Our Trello 
 > Find Us @ [Tello](https://trello.com/b/blmS5pko/teknologi-kolaborasi-pengembangan-perangkat-lunak)
