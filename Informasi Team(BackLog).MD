@@ -33,6 +33,38 @@ Log Book
 ==========
 22/5/2017 - 6/6/2017
 
+commit 5cffb2945dd3562015c3919af3b81ce588a0b79c (HEAD -> master)
+Author: FaXcodark <xcodertools@gmail.com>
+Date:   Wed Jun 7 00:37:29 2017 +0700
+
+    Fix
+
+commit c95022a7faabeec2db0b045f8fd9f253d25bca78
+Merge: ea77c9c 199d110
+Author: FaXcodark <xcodertools@gmail.com>
+Date:   Wed Jun 7 00:31:18 2017 +0700
+
+    Merge branch 'master' of https://github.com/FaXcodark/ProjectTKPPL
+
+commit ea77c9c1a06786e2827760fe1df117ed9dab7a4f
+Author: FaXcodark <xcodertools@gmail.com>
+Date:   Wed Jun 7 00:26:58 2017 +0700
+
+    Add Trello.png and BurndownChart.xlxs
+
+commit c0b4603f680c438ed61175441c627a45171212f6
+Author: FaXcodark <xcodertools@gmail.com>
+Date:   Wed Jun 7 00:21:15 2017 +0700
+
+    Penambahan Trello dan BurndownChart
+
+commit 1ac79f8308fe05a6db056e9bc2e828765a398bce
+Author: FaXcodark <xcodertools@gmail.com>
+Date:   Wed Jun 7 00:17:32 2017 +0700
+
+    Penambahan Trello.png dan BurndownChart for Project
+
+
 commit 6283be37f1ed0d805b6f85c4800d7336097cdb88
 Author: FaXcodark <xcodertools@gmail.com>
 Date:   Tue Jun 6 22:05:00 2017 +0700
